@@ -1,1 +1,4 @@
 .idea
+dist
+src/wrench.egg-info
+src/wrench_qi2017.egg-info
